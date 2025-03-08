@@ -27,11 +27,7 @@ This project is a functional **CRUD** developed with **TypeScript**, using **Nod
    npm install
    ```  
 3️⃣ Configure environment variables in the `.env` file  
-4️⃣ Run database migrations:  
-   ```bash
-   npx sequelize db:migrate
-   ```  
-5️⃣ Start the server:  
+4️⃣ Start the server:  
    ```bash
    npm run dev
    ```  
